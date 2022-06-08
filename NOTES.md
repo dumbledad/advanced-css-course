@@ -8,3 +8,4 @@
 - Position absolute is measured from the first parent container which is position relative
 - Don't forget span for styling different bits of text in a (semantic) block
 - block elements take entire width and have newline before and after
+- keyframes are best animating just two properties, and browsers are optimised for them to be opacity and translation
