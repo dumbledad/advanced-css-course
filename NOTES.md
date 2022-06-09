@@ -9,3 +9,8 @@
 - Don't forget span for styling different bits of text in a (semantic) block
 - block elements take entire width and have newline before and after
 - keyframes are best animating just two properties, and browsers are optimised for them to be opacity and translation
+
+
+## Up to ...
+
+https://www.udemy.com/course/advanced-css-and-sass/learn/lecture/8274412#overview

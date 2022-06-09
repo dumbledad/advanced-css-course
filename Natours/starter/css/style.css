@@ -98,3 +98,9 @@ body {
         transform: translate(0);
     }
 }
+
+
+/* https://www.udemy.com/course/advanced-css-and-sass/learn/lecture/8274412#overview */
+
+.btn:link,
+.btn:visited {}
