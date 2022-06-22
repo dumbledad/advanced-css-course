@@ -14,6 +14,10 @@
 - Don't forget span for styling different bits of text in a (semantic) block
 - block elements take entire width and have newline before and after
 - keyframes are best animating just two properties, and browsers are optimised for them to be opacity and translation
+- animation-fil-mode will automatically apply the styling that starts the animation (avoid present, disappear, slowly appear)
+- pseudo
+  - classes are like `btn:hover`
+  - elements are like `btn::after`
 
 
 ## Up to ...
