@@ -34,7 +34,7 @@
         - Faster & smaller
         - Fewer smaller images
         - Compress
-
+- 10px font size in the root (i.e. the `html` element) makes `rem` calculations easy
 
 
 ## Up to ...
