@@ -35,6 +35,7 @@
         - Fewer smaller images
         - Compress
 - 10px font size in the root (i.e. the `html` element) makes `rem` calculations easy
+    - Or even better, 62.5% which gets us from 16px to 10px
 
 
 ## Up to ...

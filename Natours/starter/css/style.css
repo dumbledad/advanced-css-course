@@ -15,7 +15,7 @@ Dark green: #28b485
 
 html {
     /* 10 makes rem calculations easier */
-    font-size: 10px;
+    font-size: 62.5%;
 }
 
 body {
