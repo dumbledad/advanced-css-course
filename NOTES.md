@@ -1,3 +1,8 @@
+# Links
+
+- [Finished](file:///Users/timregan/src/acss/Natours/after-S05/index.html#section-tours)
+- [WiP](file:///Users/timregan/src/acss/Natours/starter/index.html)
+
 # Tim's Notes for Jonas's Udemy  Advanced CSS course
 
 - fonts in body not universal 
