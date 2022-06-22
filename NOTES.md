@@ -18,6 +18,23 @@
 - pseudo
   - classes are like `btn:hover`
   - elements are like `btn::after`
+- Three Pillars of Writing Good HTML & CSS
+    1. Responsive Design
+        - He assumes we know
+            - [fluid layouts](https://support.google.com/webdesigner/answer/7002913?hl=en-GB#percentage-based)
+            - [media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries)
+        - Responsive images
+        Correct units
+        - Desktop 1st vs. mobile-first
+    1. Maintainable & Scalable Code
+        - File organisation
+        - Naming classes
+        - Structure HTML
+    1. Web Performance
+        - Faster & smaller
+        - Fewer smaller images
+        - Compress
+
 
 
 ## Up to ...
