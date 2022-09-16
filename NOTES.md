@@ -36,8 +36,11 @@
         - Compress
 - 10px font size in the root (i.e. the `html` element) makes `rem` calculations easy
     - Or even better, 62.5% which gets us from 16px to 10px
-
+- BEM: Block Element Modifier
+  - A _block_ is reusable within a site or page, it is modular
+  - An _element_ makes no sense outside of its block
+  - BEM leads to declarations with _'low specificity score'_ and so they are unlikely to mess with anything else. This is part of the popularity of BEM syntax
 
 ## Up to ...
 
-https://www.udemy.com/course/advanced-css-and-sass/learn/lecture/8274440#overview
+https://www.udemy.com/course/advanced-css-and-sass/learn/lecture/8274446#overview
